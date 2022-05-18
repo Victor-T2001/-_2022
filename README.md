@@ -35,3 +35,12 @@
 |[knn test](https://github.com/Viktor-T-2001/C_2022/blob/main/knn%20test.xlsx)| .xlsx | Значення binary accuracy для kNN на тренувальній вибірці (потрібні для візуалізації) |
 
 # Результати
+![Part 1](https://github.com/Viktor-T-2001/C_2022/blob/main/Results%20Part%201.png)
+
+![Part 2](https://github.com/Viktor-T-2001/C_2022/blob/main/Results%20Part%202.png)
+
+![Part 3](https://github.com/Viktor-T-2001/C_2022/blob/main/Results%20Part%203.png)
+
+![Part 4](https://github.com/Viktor-T-2001/C_2022/blob/main/Results%20Part%204.png)
+
+![Part 5](https://github.com/Viktor-T-2001/C_2022/blob/main/Results%20Part%205.png)
