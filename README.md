@@ -34,7 +34,7 @@
 |[DT results](https://github.com/Viktor-T-2001/C_2022/blob/main/DT%20results.xlsx) | .xlsx | Результати торгової стратегії, яка базується на прогнозах дерева рішень на тестовій вибірці |
 |[knn test](https://github.com/Viktor-T-2001/C_2022/blob/main/knn%20test.xlsx)| .xlsx | Значення binary accuracy для kNN на тренувальній вибірці (потрібні для візуалізації) |
 |[Viktor Taraba Presentation 2022](https://github.com/Viktor-T-2001/C_2022/blob/main/Viktor%20Taraba%20Presentation%202022.tex)| .tex | Презентація для захисту |
-||.pdf| Скомпільована презентація для захисту |
+|[Viktor Taraba Presentation](https://github.com/Viktor-T-2001/C_2022/blob/main/Viktor%20Taraba%20Presentation.pdf)|.pdf| Скомпільована презентація для захисту |
 ||.zip| Зображення для презентації |
 
 # Результати
