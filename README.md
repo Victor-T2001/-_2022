@@ -35,7 +35,7 @@
 |[knn test](https://github.com/Viktor-T-2001/C_2022/blob/main/knn%20test.xlsx)| .xlsx | Значення binary accuracy для kNN на тренувальній вибірці (потрібні для візуалізації) |
 |[Viktor Taraba Presentation 2022](https://github.com/Viktor-T-2001/C_2022/blob/main/Viktor%20Taraba%20Presentation%202022.tex)| .tex | Презентація для захисту |
 |[Viktor Taraba Presentation](https://github.com/Viktor-T-2001/C_2022/blob/main/Viktor%20Taraba%20Presentation.pdf)|.pdf| Скомпільована презентація для захисту |
-||.zip| Зображення для презентації |
+|[Images](https://github.com/Viktor-T-2001/C_2022/blob/main/Images.zip)|.zip| Зображення для презентації |
 
 # Результати
 ![Part 1](https://github.com/Viktor-T-2001/C_2022/blob/main/Results%20Part%201.png)
